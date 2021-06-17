@@ -10,7 +10,7 @@ int main (void) {
 	
 	for (int y=int [x];y>x;y++)
 	{
-		prinf("%d is largest",y);
+		printf("%d is largest",y);
 	}
 }
 
