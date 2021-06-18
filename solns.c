@@ -1,16 +1,24 @@
 /* Enter your solutions in this file */
 #include <stdio.h>
+#include <cs50.h>
 
-int_max(int [x],int y);
+ int max(int largest_int[],int x);
 
-int main (void) {
-	int max,x;
-	int [x] = {9,5,6,10,2,-3,4};
-	int_max(int [x],int y);
-	
-	for (int y=int [x];y>x;y++)
-	{
-		printf("%d is largest",y);
-	}
-}
+   int main(void) {
+   int  x,i,y; 
+   int largest_int[]= {9,5,6,10,2,-3};
+int max(int largest_int[],int x);
+  for(i=0;i>y;i++)
+  {
+    if(i>y)
+    {
+   
+     printf("%d\n",i);
+
+            }
+           
+            }
+       return i;     
+            
+            }
    
